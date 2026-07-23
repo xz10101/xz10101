@@ -1,12 +1,12 @@
 ## Привет!
-# Добро пожаловать в мой профиль! Я знаю C/C++ а также в данный момент учу веб (Frontend, Backend)
-# -----
-# Мои основные проекты это MilentOS(Простая ОС со своим ядром и загрузчиком GRUB) и скоро будет новый проект на qt
+Добро пожаловать в мой профиль! Я знаю C/C++ а также в данный момент учу веб (Frontend, Backend)
+-----
+Мои основные проекты это MilentOS(Простая ОС со своим ядром и загрузчиком GRUB) и скоро будет новый проект на qt
 
 ----------------------
 
 <p>
-  <img src="https://skillicons.dev/icons?i=C++,qt,C,js,html,css,git,github,linux,windows,vscode,vs,bash,discord," />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,c,js,html,css,git,github,linux,windows,vscode,bash,discord," />
 </p> 
 
 <!--
