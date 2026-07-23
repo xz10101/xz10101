@@ -6,7 +6,7 @@
 ----------------------
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,qt,c,js,html,css,git,github,linux,windows,vscode,bash,discord," />
+  <img src="https://skillicons.dev/icons?i=cpp,c,qt,git,github,linux,windows,vscode,bash,discord,html,css,js" />
 </p> 
 
 <!--
