@@ -13,13 +13,13 @@
   <picture>
     <!-- Для темной темы -->
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/xz10101/xz10101/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+            srcset="https://raw.githubusercontent.com/xz10101/xz10101/output/github-contribution-grid-snake-dark.svg" />
     <!-- Для светлой темы -->
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/xz10101/xz10101/refs/heads/output/github-contribution-grid-snake.svg" />
+            srcset="https://raw.githubusercontent.com/xz10101/xz10101/output/github-contribution-grid-snake.svg" />
     <!-- Запасной вариант -->
     <img alt="github-snake" 
-         src="https://raw.githubusercontent.com/xz10101/xz10101/refs/heads/output/github-contribution-grid-snake.svg" />
+         src="https://raw.githubusercontent.com/xz10101/xz10101/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
