@@ -9,6 +9,21 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,qt,git,github,linux,windows,vscode,bash,discord,html,css,js" />
 </p> 
 
+<p align="center">
+  <picture>
+    <!-- Для темной темы -->
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Для светлой темы -->
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <!-- Запасной вариант -->
+    <img alt="github-snake" 
+         src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
 <!--
 **xz10101/xz10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
