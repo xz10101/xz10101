@@ -9,6 +9,18 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,qt,git,github,linux,windows,vscode,bash,discord,html,css,js" />
 </p> 
 
+
+<div align="center">
+
+  <!-- Заголовок блока музыки -->
+  [![Spotify Live](https://lastfm-recently-played.vercel.app/api?user=Airs7770&count=1)](https://www.last.fm/user/Airs7770)
+  
+  <!-- Сюда мы вставим сгенерированный виджет -->
+  <!-- ОШИБКА ИСЧЕЗНЕТ И ЗДЕСЬ БУДЕТ ВАШ ВЫДАННЫЙ КОД -->
+  
+</div>
+
+
 <p align="center">
   <picture>
     <!-- Для темной темы -->
